@@ -1,0 +1,88 @@
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\octae\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Goku\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\Persistencia\obj\Debug\Persistencia.pdb

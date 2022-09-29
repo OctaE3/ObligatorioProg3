@@ -1,0 +1,42 @@
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioClases\obj\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Presentacion\DominioClases\obj\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioClases\obj\Debug\DominioClases.pdb

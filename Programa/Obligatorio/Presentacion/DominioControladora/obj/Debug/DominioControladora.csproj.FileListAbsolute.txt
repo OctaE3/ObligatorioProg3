@@ -1,0 +1,112 @@
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\octae\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio (3)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\octae\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll.config
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioControladora.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\DominioClases.dll.config
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.pdb
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\bin\Debug\Persistencia.dll.config
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.csproj.CopyComplete
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.dll
+C:\Users\Goku\Desktop\Obligatorio (8)\Obligatorio\Presentacion\DominioControladora\obj\Debug\DominioControladora.pdb
